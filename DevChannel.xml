@@ -29,8 +29,28 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>KBS 2</title>
-<link>http://m.keysco.com:1935/live/keysco01.sdp/playlist.m3u8</link>
+<title>HBO</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv036&q=high&type=tv</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>Cinemax</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv037&q=high&type=tv</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>Star Movie</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv038&q=high&type=tv</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>Star World</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv039&q=high&type=tv</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>Discovery Channel</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv044&q=high&type=tv</link>
 <thumbnail></thumbnail>
 
 <item>
