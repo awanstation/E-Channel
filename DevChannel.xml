@@ -28,44 +28,20 @@
 <link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e45_wcif.sdp/e45_wcif.sdp-mr2548k.m3u8</link>
 <thumbnail></thumbnail>
  
+
 <item>
-<title>HBO</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv036&q=high&type=tv</link>
+<title>NHK Japan</title>
+<link>http://plslive-w.nhk.or.jp/nhkworld/app/live.m3u8</link>
 <thumbnail></thumbnail>
 
 <item>
-<title>Cinemax</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv037&q=high&type=tv</link>
+<title>National Geographic - Abu Dhabi</title>
+<link>http://xnatgeoabudhabilivex.api.channel.livestream.com/3.0/playlist.m3u8</link>
 <thumbnail></thumbnail>
 
 <item>
-<title>Star Movie</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv038&q=high&type=tv</link>
-<thumbnail></thumbnail>
-
-<item>
-<title>Star World</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv039&q=high&type=tv</link>
-<thumbnail></thumbnail>
-
-<item>
-<title>Discovery Channel</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv044&q=high&type=tv</link>
-<thumbnail></thumbnail>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
-
-<item>
-<title></title>
-<link></link>
+<title>SKY Sport F1</title>
+<link>rtmp://46.19.139.146:1935/stream/ playpath=ffe84f5ed.stream</link>
 <thumbnail></thumbnail>
 
 <item>
